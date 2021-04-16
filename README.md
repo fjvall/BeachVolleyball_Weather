@@ -9,7 +9,7 @@ This project focuses on determining if weather conditions affect Beach Volleybal
 
 
 
-I generate the Dataset using the following:
-Github repository with games data: https://github.com/BigTimeStats/beach-volleyball
-Google's map geocoding to get the GPS
+I generate the Dataset using the following:<br>
+Github repository with games data: https://github.com/BigTimeStats/beach-volleyball<br>
+Google's map geocoding to get the GPS<br>
 Visualcrossing API to get Historic data using date and GPS coordinates: https://www.visualcrossing.com/weather-api
